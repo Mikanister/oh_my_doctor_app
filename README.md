@@ -1,1 +1,1 @@
-# oh_my_doctor_app
+# This is repo with OH MY DOCTOR app code
